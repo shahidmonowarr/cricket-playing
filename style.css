@@ -37,3 +37,10 @@
 .field:hover .stump {
     transform: rotate(45deg);
 }
+.footer{
+    margin-top: 0;
+    background-color: white;
+}
+.footer h2{
+    text-align: center;
+}
